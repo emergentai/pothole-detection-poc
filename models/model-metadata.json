@@ -1,0 +1,9 @@
+{
+  "inputSize": [640, 640],
+  "classes": ["pothole"],
+  "confidenceThreshold": 0.5,
+  "nmsThreshold": 0.4,
+  "modelName": "YOLOv8n-seg Pothole Detection",
+  "version": "8.0.0",
+  "description": "YOLOv8n-seg is a lightweight, real-time segmentation model optimized for edge devices. Converted to ONNX format for pothole detection and segmentation. Detects and segments potholes in road images with high accuracy."
+}
